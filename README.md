@@ -41,7 +41,7 @@ G-Ducky is a USB HID device based on the Arduino Pro Micro, designed to execute 
 - MISO to Pro Micro MISO (Pin 14)
 - MOSI to Pro Micro MOSI (Pin 16)
 - SCK to Pro Micro SCK (Pin 15)
-- CS to Pro Micro CS (Pin 10)
+- CS to Pro Micro CS (Pin 4)
 
 **Buttons:**
 
