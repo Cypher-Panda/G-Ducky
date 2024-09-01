@@ -26,7 +26,7 @@ const unsigned char bitmap_item_sel_outline [] PROGMEM = {
   0x1f, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xc0
 };
 
-const int NUM_ITEMS = 20; 
+const int NUM_ITEMS = 100; 
 const int MAX_ITEM_LENGTH = 20; 
 char menu_items[NUM_ITEMS][MAX_ITEM_LENGTH];
 int num_files = 0;
